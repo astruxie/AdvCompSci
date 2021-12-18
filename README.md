@@ -1,2 +1,2 @@
 # AdvCompSci
-Archive of labs from my high school "Advanced" Computer Science class (2018)
+Archive of my high school labs from "Advanced" Computer Science (2018)
